@@ -11,10 +11,10 @@ This project analyzes employee workforce data to help organizations understand e
 ## Dashboards
 
 ### Employee Performance Dashboard
-![Performance Dashboard](employee performance.)
+![Performance Dashboard](employee-performance-dashboard.)
 
 ### Employee Benefits Dashboard
-![Benefits Dashboard](benefit dashboard.)
+![Benefits Dashboard](Employee-benefit-dashboard.)
 
 ## Key Insights
 * Performance varies across departments and locations  
