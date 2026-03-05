@@ -1,4 +1,4 @@
-# TECH-INNOVATOR( Employee HR Analytics Dashboard)
+# TECH-INNOVATOR
 # Employee HR Analytics Dashboard
 
 This project analyzes employee workforce data to help organizations understand employee performance, benefits utilization, and operational efficiency.
