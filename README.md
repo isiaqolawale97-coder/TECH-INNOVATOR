@@ -20,3 +20,6 @@ This project analyzes employee workforce data to help organizations understand e
 * Performance varies across departments and locations  
 * Training completion impacts employee performance  
 * Benefit utilization highlights employee engagement levels
+
+AUTHOR :
+Olawale Isiaq
